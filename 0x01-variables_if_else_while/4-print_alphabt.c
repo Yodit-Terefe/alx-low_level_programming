@@ -2,10 +2,10 @@
 #include<stdlib.h>
 #include<string.h>
 /**
-* main -prints the alphabet without q and e.
-*
-* Return: Always 0 (success)
-*/
+ * main -prints the alphabet without q and e.
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
          int i;
